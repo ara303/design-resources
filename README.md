@@ -10,7 +10,7 @@
 - [CSS-Tricks article](https://css-tricks.com/still-hoping-for-better-native-page-transitions/) which includes a few different ways to do it.
 
 ## Fonts
-- bwaaaaaaaa
+- [The five new fonts in contention for Microsoft's new default](https://www.microsoft.com/en-us/microsoft-365/blog/2021/04/28/beyond-calibri-finding-microsofts-next-default-font/)
 
 ## License
 I don't know because none of this is my writing or resources. I'm just collecting them. Still, here is a good license just in case I need it or someone else needs it at any point in the future...
