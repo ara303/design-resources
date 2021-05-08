@@ -11,6 +11,7 @@
 
 ## Fonts
 - [The five new fonts in contention for Microsoft's new default](https://www.microsoft.com/en-us/microsoft-365/blog/2021/04/28/beyond-calibri-finding-microsofts-next-default-font/)
+- [A bunch of pretty good sans-serifs,](https://user-images.githubusercontent.com/769754/117522320-95f38e00-afaa-11eb-85c6-01b56390d35f.png) as found [here](https://bootcamp.uxdesign.cc/the-sans-selection-8d91bbe47741).
 
 ## License
 I don't know because none of this is my writing or resources. I'm just collecting them. Still, here is a good license just in case I need it or someone else needs it at any point in the future...
